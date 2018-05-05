@@ -1,0 +1,5 @@
+package br.com.springtest.models;
+
+public class Cliente {
+
+}
